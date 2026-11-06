@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["ACMYD899H2.com.danvasiliev.haltera"],
+        "components": [
+          { "/": "/p", "comment": "a shared plan" },
+          { "/": "/p/" },
+          { "/": "/w", "comment": "a shared workout result" },
+          { "/": "/w/" }
+        ]
+      }
+    ]
+  }
+}
